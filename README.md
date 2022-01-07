@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I'm Shruti Chandran :woman:</h1>
-<p align="center">Java fullstack developer with experience in end-to-end delivery (Development-to-deployment) from <img src="https://image.flaticon.com/icons/png/512/555/555462.png" width="13"/> <b>Delhi, India</b> </p>
+<p align="center">Java fullstack developer with experience in end-to-end delivery (Development-to-Deployment) from <img src="https://image.flaticon.com/icons/png/512/555/555462.png" width="13"/> <b>Delhi, India</b> </p>
 <p align="center">Currently pursuing <b>Master's in Computer Science</b> from <b>University of Edinburgh</b>, <img src="https://image.flaticon.com/icons/png/512/555/555417.png" width="13"/> <b>Edinburgh, United Kingdom</b> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shruti1995chandran" alt="pemtajo" /> </p>
 
